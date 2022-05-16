@@ -2,9 +2,8 @@
  <img width="100px" src="https://avatars.githubusercontent.com/u/44636532?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">PHCBEST</h2>
  <p align="center">FLY ME TO THE MOON</p>
+ <img src="https://github-profile-trophy.vercel.app/?username=phcbest&column=-1" align="center"/>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=phcbest&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Github](https://img.shields.io/github/followers/phcbest?label=Follow&style=social)](https://phcbest.github.io/)
 
