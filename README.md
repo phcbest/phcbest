@@ -4,7 +4,7 @@
  <p align="center">FLY ME TO THE MOON</p>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=phcbest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=phcbest&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Github](https://img.shields.io/github/followers/phcbest?label=Follow&style=social)](https://phcbest.github.io/)
 
