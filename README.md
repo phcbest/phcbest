@@ -1,3 +1,10 @@
+<style type="text/css">
+	img{
+		border-radius: 50%;
+		overflow: hidden;
+		width: 100px;
+	}
+</style>
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/44636532?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">PHCBEST</h2>
