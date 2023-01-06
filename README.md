@@ -4,11 +4,6 @@
  <p align="center">FLY ME TO THE MOON</p>
  <img src="https://github-profile-trophy.vercel.app/?username=phcbest&column=-1" align="center"/>
 </p>
-<style>
-  img {
-    border-radius: 50% !important;
-  }
-</style>
 
 [![Github](https://img.shields.io/github/followers/phcbest?label=Follow&style=social)](https://phcbest.github.io/)
 
