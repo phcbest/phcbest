@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358466.png" align="center" alt="GitHub Readme Stats" style="width:150px; height:150px; " />
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358467.png" align="center" alt="GitHub Readme Stats" style="width:150px; height:150px; " />
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358464.png" align="center" alt="GitHub Readme Stats" style="width:150px; height:150px; " />
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358463.png" align="center" alt="GitHub Readme Stats" style="width:150px; height:150px; " />
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358465.png" align="center" alt="GitHub Readme Stats" style="width:150px; height:150px; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358466.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358467.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358464.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358463.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358465.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
   
   <h2 align="center">PHCBEST</h2>
  
