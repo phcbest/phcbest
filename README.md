@@ -1,5 +1,10 @@
 <div align="center">
-  <img width="200px" src="https://avatars.githubusercontent.com/u/44636532?v=4" align="center" alt="GitHub Readme Stats" />
+
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358466.png" align="center" alt="GitHub Readme Stats" style="width:180px; height:180px; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358467.png" align="center" alt="GitHub Readme Stats" style="width:180px; height:180px; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358464.png" align="center" alt="GitHub Readme Stats" style="width:180px; height:180px; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358463.png" align="center" alt="GitHub Readme Stats" style="width:180px; height:180px; " />
+  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358465.png" align="center" alt="GitHub Readme Stats" style="width:180px; height:180px; " />
   
   <h2 align="center">PHCBEST</h2>
  
@@ -11,8 +16,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=phcbest&column=-1" align="center"/>
  
   <p align="center"></p>
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phcbest&theme=github-light&radius=10 )](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phcbest&show_icons=true)
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=phcbest)](https://git.io/streak-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phcbest)](https://github.com/anuraghazra/github-readme-stats)
 
