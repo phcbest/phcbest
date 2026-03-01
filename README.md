@@ -1,30 +1,32 @@
-<div align="center">
+<h1 align="center">PHCBEST</h1>
+<p align="center"><i>Fly me to the moon, and let me play among the stars.</i></p>
 
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358466.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358467.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358464.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358463.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
-  <img src="https://raw.githubusercontent.com/phcbest/PicBed/main/img/202312122358465.png" align="center" alt="GitHub Readme Stats" style="width:18%; " />
-  
-  <h2 align="center">PHCBEST</h2>
- 
-  [![Github](https://img.shields.io/github/followers/phcbest?label=Follow&style=social)](https://phcbest.github.io/)
-  
-  <p align="center">FLY ME TO THE MOON</p>
-  <p align="center">and let me play among the stars</p>
- 
-  <img src="https://github-profile-trophy.vercel.app/?username=phcbest&column=-1" align="center"/>
- 
-  <p align="center"></p>
+<p align="center">
+  <a href="https://phcbest.github.io/">
+    <img src="https://img.shields.io/badge/Blog-phcbest.github.io-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://github.com/phcbest?tab=followers">
+    <img src="https://img.shields.io/github/followers/phcbest?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  </a>
+</p>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=phcbest&theme=github-light&radius=10 )](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phcbest&show_icons=true)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/phcbest/PicBed@main/img/202312122358466.png" width="84" alt="icon1" />
+  <img src="https://cdn.jsdelivr.net/gh/phcbest/PicBed@main/img/202312122358467.png" width="84" alt="icon2" />
+  <img src="https://cdn.jsdelivr.net/gh/phcbest/PicBed@main/img/202312122358464.png" width="84" alt="icon3" />
+  <img src="https://cdn.jsdelivr.net/gh/phcbest/PicBed@main/img/202312122358463.png" width="84" alt="icon4" />
+  <img src="https://cdn.jsdelivr.net/gh/phcbest/PicBed@main/img/202312122358465.png" width="84" alt="icon5" />
+</p>
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=phcbest)](https://git.io/streak-stats)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=phcbest&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phcbest&layout=compact&hide_border=true&langs_count=6&cache_seconds=86400" alt="langs" />
+</p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phcbest)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=phcbest&hide_border=true&cache_seconds=86400" alt="streak" />
+</p>
 
-
- My Blog: [phcbest's Tech Blog](https://phcbest.github.io/): Record and learn.
-</div>
+<p align="center">
+  <a href="https://phcbest.github.io/">My Blog: phcbest's Tech Blog</a>
+</p>
